@@ -1,3 +1,5 @@
+document.title = "CertifiCard";
+
 function alterarTema() {
 	var dark = document.body.classList.toggle("dark");
 
