@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
-
 body {
 	background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
 	font-family: "Roboto", sans-serif;
@@ -93,7 +92,7 @@ body {
 .projetos p {
 	color: #1c1c1c;
 	text-decoration: none;
-	margin: 0px 0px 5px;
+	margin: 10px 0px 5px;
 }
 
 .projetos-item {
@@ -122,6 +121,6 @@ body {
 
 .dark .tema button {
 	background: #1c1c1c;
-	color: #f7f7f7;
-	border-color: #f7f7f7;
+	color: #ffffff;
+	border-color: #ffffff;
 }
